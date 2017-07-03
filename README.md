@@ -1,3 +1,3 @@
 # 05-image-gallery
 
-Learning Flex Panels.
+Learning Flex Panels along with `transform: translateY`
